@@ -16,7 +16,7 @@ const App = () => {
         <Link to="/cart">Cart</Link>
       </nav>
 
-      <h1>My Store</h1>
+      <h1>Hello World, this is My Store</h1>
       
 
       <Routes>
